@@ -1,0 +1,8 @@
+ctrl+alt+space 提示代码
+CTRL+shift+enter 自动补全
+CTRL+alt+enter 上一行
+ctrl+/ 单行注释
+CTRL+shift+/ 多行注释
+ctrl +d 删除某行
+ctrl+shift+o 导入包
+ctrl+alt+v快速new一个对象
